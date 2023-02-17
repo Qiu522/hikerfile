@@ -634,17 +634,7 @@
     "ext": "https://gitee.com/yimuyimuszjzj/yimuy/raw/master/token.txt",
     "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E5%96%B5%E7%9B%98%E6%90%9C.jar"
   },
-  {
-    "key": "csp_Yisou",
-    "name": "🔎易搜（仅搜索）",
-    "type": 3,
-    "api": "csp_Yisou",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "ext": "https://gitee.com/yimuyimuszjzj/yimuy/raw/master/token.txt",
-    "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E9%80%9A%E7%94%A8.jar"
-  },
+  {"key":"csp_search_Yisou","name":"🐏易搜","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/toｋen.php","jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;92DB9B2513E203A32A01195C4D376F67"},
   {
     "key": "push_agent",
     "name": "🍭推送",
@@ -666,15 +656,7 @@
     "filterable": 0,
     "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/网盘包/小雅搜索.json"
   },
-  {
-    "key": "0428",
-    "name": "",
-    "type": 3,
-    "api": "360",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-  },
+  {"key":"csp_search_Alips","name":"🦌盘搜","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://我不是.肥猫.love:63/toｋen.php","jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;92DB9B2513E203A32A01195C4D376F67"},
   {
     "key": "yule0",
     "name": "",
@@ -760,7 +742,8 @@
   {"key": "drpy_js_优酷", "name": "🗽优酷", "type": 3, "api": "https://hikerfans.com/iptv/libs/drpy2.min.js", "ext": "https://hikerfans.com/iptv/js/优酷.js","jar":"https://hikerfans.com/iptv/jar/panda.jar"},
   {"key": "drpy_js_百忙无果", "name": "🍋芒果TV", "type": 3, "api": "https://hikerfans.com/iptv/libs/drpy2.min.js", "ext": "https://hikerfans.com/iptv/js/百忙无果.js","jar":"https://hikerfans.com/iptv/jar/panda.jar"},
   {"key": "dr_b站", "name": "🤖哔哩", "type": 3, "api": "https://hikerfans.com/iptv/libs/drpy2.min.js", "searchable": 1, "quickSearch": 0, "filterable": 1, "ext": "https://hikerfans.com/iptv/js/哔哩影视.js","jar":"https://hikerfans.com/iptv/jar/panda.jar"},
-  {"key": "drpy_js_量子", "name": "量子", "type": 3, "api": "https://hikerfans.com/iptv/libs/drpy2.min.js", "ext": "https://hikerfans.com/iptv/js/量子影视.js","jar":"https://hikerfans.com/iptv/jar/panda.jar"}
+  {"key": "drpy_js_量子", "name": "🐭量子", "type": 3, "api": "https://hikerfans.com/iptv/libs/drpy2.min.js", "ext": "https://hikerfans.com/iptv/js/量子影视.js","jar":"https://hikerfans.com/iptv/jar/panda.jar"},
+  {"key":"csp_XYQBiu_艾菲影视","name":"🐭艾菲影视〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/json/艾菲影视.json","jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/xo1330.jar;md5;4bd2275690262e2b338920201a674539"}
 ],
 "parses": [{
   "name": "解析聚合",
