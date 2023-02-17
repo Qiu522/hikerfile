@@ -1,7 +1,7 @@
 {
   "lives":[ {"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&amp;type=txt&amp;ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvemIudHh0"]}]}],
   "wallpaper": "http://maoyingshi.cc/api.php",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%9B%B4%E6%92%ADjar/%E7%9B%B4%E6%92%AD.jar",
+  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
   "recommend": [{
     "name": "imdb",
     "request": {
