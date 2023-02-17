@@ -2,6 +2,62 @@
   "lives":[ {"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&amp;type=txt&amp;ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvemIudHh0"]}]}],
   "wallpaper": "http://maoyingshi.cc/api.php",
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%9B%B4%E6%92%ADjar/%E7%9B%B4%E6%92%AD.jar",
+  "recommend": [{
+    "name": "imdb",
+    "request": {
+      "method": "GET",
+      "url": {
+        "raw": "https://imdb-api.com/en/API/MostPopularMovies/k_1kz039kt"
+      }
+    },
+    "response": {
+      "result": "$.items",
+      "data": [{
+        "key": "name",
+        "value": "title"
+      },
+        {
+          "key": "note",
+          "value": "imDbRating"
+        },
+        {
+          "key": "pic",
+          "value": "image"
+        }]
+    },
+    "expires": "86400"
+  }],
+  "rating": [{
+    "name": "rating",
+    "request": {
+      "method": "GET",
+      "url": {
+        "raw": "https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"
+      }
+    },
+    "response": {
+      "result": "this",
+      "data": [{
+        "key": "rating",
+        "value": "doubanRating"
+      }]
+    }
+  }],
+  "pullWord": [{
+    "name": "pullWord",
+    "request": {
+      "method": "GET",
+      "url": {
+        "raw": "http://api.pullword.com/get.php?source={source}&param1=0&param2=0&json=1"
+      }
+    },
+    "response": {
+      "data": [{
+        "key": "keyword",
+        "value": "t"
+      }]
+    }
+  }],
   "subtitle": {
     "color": "#FFFFFF",
     "size": "30"
