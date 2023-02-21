@@ -569,7 +569,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key":"csp_Paper","name":"📜纸条","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/toｋ.php", "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;5761F54CCFE6157E49F2F980F51D26FD"},
+    {"key":"csp_Paper","name":"📜纸条","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/maoToken.txt", "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;5761F54CCFE6157E49F2F980F51D26FD"},
     {
       "key": "小纸条2",
       "name": "📃小纸条2",
@@ -613,7 +613,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/maoToken.txt",
+    "ext": "https://gitee.com/yimuyimuszjzj/yimuy/raw/master/token.txt",
     "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E5%96%B5%E7%9B%98%E6%90%9C.jar"
   },
   {"key":"csp_search_Yisou","name":"🐏易搜","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/maoToken.txt","jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;5761F54CCFE6157E49F2F980F51D26FD"},
@@ -628,7 +628,7 @@
     "filterable": 0,
     "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/网盘包/小雅搜索.json"
   },
-  {"key":"csp_search_Upyunso","name":"🐐┃云搜┃搜索","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://我不是.肥猫.love:63/toｋ.php","jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;5761F54CCFE6157E49F2F980F51D26FD"},
+  {"key":"csp_search_Upyunso","name":"🐐云搜","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/maoToken.txt","jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;5761F54CCFE6157E49F2F980F51D26FD"},
   {
     "key": "yule0",
     "name": "",
