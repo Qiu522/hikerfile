@@ -292,6 +292,7 @@
       "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/vo fl ix.json"
     },
+    {"key": "csp_biubiu_voflix","name": "🌀Vof","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/json/voflix.json","jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;EB433F3B00E991E6BA6509CFFC99672C"},
     {
       "key": "csp_xbb_达达龟",
       "name": "💢达达龟(XB)",
@@ -325,18 +326,7 @@
         }
       }
     },
-    {
-      "key": "csp_Lib",
-      "name": "💢LIBVIO(XB)",
-      "type": 3,
-      "api": "csp_Lib",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/LIBVIO.jar"
-
-    },
+    {"key":"csp_Lib","name":"💫Lib","type":3,"api":"csp_Libvio","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://tv.libvio.cc","jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;EB433F3B00E991E6BA6509CFFC99672C"},
     {
       "key": "csp_xBPQ_诺讯影视",
       "name": "️💢诺讯(XB)",
@@ -735,7 +725,7 @@
     "url": "Sequence"
   },
   {"name": "瞄影嗅探","type":0,"url":"http://www.miaoys.cc/vip/?url="}, 
-  {"name": "星辰云解析", "type": 1, "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v=", "ext": { "flag": [ "qq", "腾讯", "企鹅", "IQiYi", "qiyi", "爱奇艺", "奇艺", "youku", "YouKu", "优酷", "sohu", "SoHu", "搜狐", "letv", "LeShi", "乐视", "imgo", "mgtv", "MangGuo", "芒果", "SLYS4k", "BYGA", "luanzi", "AliS", "dxzy", "bilibili", "QEYSS", "xigua", "西瓜视频", "腾讯视频", "奇艺视频", "优酷视频", "芒果视频", "乐视视频" ] } }, 
+  {"name": "星辰云解析", "type": 1, "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v=", "ext": { "flag": [ "qq", "腾讯", "企鹅", "IQiYi", "qiyi", "爱奇艺", "奇艺", "youku", "YouKu", "优酷", "sohu", "SoHu", "搜狐", "letv", "LeShi", "乐视", "imgo", "mgtv", "MangGuo", "芒果", "SLYS4k", "BYGA", "luanzi", "AliS", "dxzy", "bilibili", "QEYSS", "xigua", "西瓜视频", "腾讯视频", "奇艺视频", "优酷视频", "芒果视频", "乐视视频" ] } },
   {"name": "肥猫", "type": 1, "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=", "header": {"User-Agent": "Mozilla/5.0"}},
   {"name": "麒麟", "type": 1, "url": "http://vip.qljx.top/home/api?type=ys&uid=69775&key=cdeimopqswBCKLNR58&url="},
   {"name": "爱酷", "type": 1, "url": "https://api.json.icu/api/?key=3ea36020c6ed2c97f3a2f2ebaf97bf86&url=", "ext": {"flag": ["qiyi", "qq", "letv", "sohu", "youku", "mgtv", "bilibili", "wasu", "xigua", "1905"]}},
