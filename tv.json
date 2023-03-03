@@ -222,7 +222,8 @@
     {"key":"drpy_js_影渣渣","name":"📺影渣渣[js]","type":3,"api":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/lib/drpy2.min.js","ext":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/js/影渣渣.js","jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/xo1330.jar;md5;4bd2275690262e2b338920201a674539"},
     {"key":"drpy_js_城市影视","name":"📔城市影视[js]","type":3,"api":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/lib/drpy2.min.js","ext":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/js/影渣渣.js","jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/xo1330.jar;md5;4bd2275690262e2b338920201a674539"},
     {"key": "csp_Yht","name":"🌵┃荷塘┃影视","type": 3,"api": "csp_Yht","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://yehetang.cc","jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;EB433F3B00E991E6BA6509CFFC99672C"}, 
-    {"key":"csp_app_源头","name":"🐈┃肥猫┃影院","type":1,"api":"http://我是.肥猫.love:63/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playurl":"https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&amp;url=","jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;EB433F3B00E991E6BA6509CFFC99672C"},
+    //{"key":"csp_app_源头","name":"🐈┃肥猫┃影院","type":1,"api":"http://我不是.肥猫.love:63/json/肥猫影院.json","searchable":1,"quickSearch":1,"filterable":1,"playurl":"https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&amp;url=","jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;EB433F3B00E991E6BA6509CFFC99672C"},
+    {"key":"csp_肥猫X","name":"🐈肥猫影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/json/肥猫影院.json","jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;EB433F3B00E991E6BA6509CFFC99672C"},
     {"key": "drpy_js_量子", "name": "🐭量子", "type": 3, "api": "https://hikerfans.com/iptv/libs/drpy2.min.js", "ext": "https://hikerfans.com/iptv/js/量子影视.js","jar":"https://hikerfans.com/iptv/jar/panda.jar"},
     {
       "key": "6",
@@ -314,18 +315,7 @@
       "ext":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/真不卡.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E7%9C%9F%E4%B8%8D%E5%8D%A1.jar"
     },
-    {
-      "key": "csp_XBiu口袋影院",
-      "name": "💢口袋影视(XB)",
-      "type": 3,
-      "api": "csp_XBiu",
-      "ext": {
-        "homeUrl": "http://www.koudaitv.com/type/{cateId}-{catePg}.html",
-        "playlist": {
-          "sort": 1
-        }
-      }
-    },
+    {"key":"csp_XBiu口袋影院","name": "📩口袋影视","type": 3,"api": "csp_XBiu","ext": {"homeUrl": "http://www.koudaitv.com/type/{cateId}-{catePg}.html","playlist":{"sort":1}},"jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;EB433F3B00E991E6BA6509CFFC99672C"},
     {"key":"csp_Lib","name":"💫Lib","type":3,"api":"csp_Libvio","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://tv.libvio.cc","jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;EB433F3B00E991E6BA6509CFFC99672C"},
     {
       "key": "csp_xBPQ_诺讯影视",
