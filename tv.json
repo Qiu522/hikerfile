@@ -94,6 +94,7 @@
     
     //{"key": "csp_LiteApple","name": "🍎小 苹 果〔SP〕","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E5%B0%8F%E8%8B%B9%E6%9E%9C.txt"},
     //{"key": "小苹果","name": "🍎小苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"},
+    {"key": "直播转点播","name":"🐼️电视直播","type": 3,"api":"http://我不是.肥猫.love:63/JS/直播转点播2.js","ext":"http://我不是.肥猫.love:63/lives/直播仓.json","jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;2E66E687653E42A40A391C1EE105C137"}, 
     {"key":"csp_apple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;4bd2275690262e2b338920201a674539"},
     {"key": "厂长影视","name": "️👑厂长影视〔SP〕","type": 3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "8ee655f702d0d21f3643504783babbc3","jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E5%8E%82%E9%95%BF.jar"},
     //{"key": "csp_Xinsj","name": "🐼新视觉〔SP〕","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E6%96%B0%E8%A7%86%E8%A7%89.jar"},
@@ -101,16 +102,7 @@
     {"key": "csp_FanYY","name": "🧸玩偶影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ali.饭太硬.ml/alitoken","jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;2E66E687653E42A40A391C1EE105C137"}, 
     //{"key": "臭蛋蛋","name": "🍳┃臭蛋┃影视","type": 3,"api": "csp_XBPQ","ext": "[object Object]"}, 
     {"key": "csp_MeiJu69","name": "🗽六九美剧","type": 3,"api":"csp_MeiJu69","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/","jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;2E66E687653E42A40A391C1EE105C137"},
-    {
-      "key": "csp_xBPQ_爱看影视",
-      "name": "💖爱看影视〔SP〕",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/爱看.json"
-    },
+    //{ "key": "csp_xBPQ_爱看影视","name": "💖爱看影视〔SP〕","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/爱看.json"},
     {
       "key": "csp_Bttoo",
       "name": "✌两个BT〔SP〕",
