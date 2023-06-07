@@ -227,7 +227,7 @@
       {"key":"csp_Lib","name":"💫Lib","type":3,"api":"csp_Libvio","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://tv.libvio.cc"},
       {
         "key": "csp_茉莉",
-        "name": "🌼┃茉莉┃高清",
+        "name": "🌼茉莉高清",
         "type": 3,
         "api": "csp_XBPQ",
         "searchable": 1,
@@ -238,13 +238,16 @@
       },
       {"key":"csp_biubiu_创艺影视","name":"💢创艺影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/创艺影视.json","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar"},
       {
-        "key": "drpy_js_独播库",
-        "name": "️💢独播库(XB）",
+        "key": "csp_ruyi",
+        "name": "🏑棍子影视",
         "type": 3,
-        "api": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JAR/XB包jar/独播库.min.js",
-        "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/独播库.js",
-        "jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%9B%B4%E6%92%ADjar/%E7%9B%B4%E6%92%AD.jar"
-      },
+        "api": "csp_AppYsV2",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "http://cms.maoyingshi.cc/api.php/app/",
+        "jar":"https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;11987544E83780B0147AC210239AB165"
+    },
       {
         "key": "7",
         "name": "",
