@@ -105,8 +105,8 @@
       {"key":"csp_Kunyu77","name":"🌈七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, 
       {"key":"Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1}, 
       {"key":"csp_555","name":"🌟555影视","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com/"},
-      {"key":"csp_fant","name":"🍙┃饭团┃影视","type":3,"api":"csp_Fantuan","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.fantuanhd.com"},
-      {"key":"csp_XBiuCOKEMV","name":"🍬┃可乐┃影视","type":3,"api":"csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2}, 
+      {"key":"csp_fant","name":"🍙饭团影视","type":3,"api":"csp_Fantuan","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.fantuanhd.com"},
+      {"key":"csp_XBiuCOKEMV","name":"🍬可乐影视","type":3,"api":"csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2}, 
       {"key": "csp_xBPQ_素白白",
       "name": "💖素白白(sp)",
       "type": 3,
@@ -155,17 +155,7 @@
         "quickSearch": 1,
         "filterable": 1
       },
-      {
-        "key": "Ddys",
-        "name": "💢低端〔XB〕",
-        "type": "3",
-        "api": "csp_Dora",
-        "searchable": "1",
-        "quickSearch": "1",
-        "filterable": "1",
-        "ext": "1cc92323700909e7d46623bc85b958d6",
-        "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E4%BD%8E%E7%AB%AF.jar"
-      },
+      {"key":"csp_DiDuan" ,"name":"⏮️低端影视","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp &gt; button","searchable":1,"quickSearch":1,"filterable":0}, 
       {
         "key": "csp_xp_yinfans",
         "name": "💢音范丝4K磁力〔XB〕",
@@ -188,7 +178,17 @@
         "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/789.json",
         "jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%9B%B4%E6%92%ADjar/%E7%9B%B4%E6%92%AD.jar"
       },
-      {"key": "dr_奇优影院","name": "💢奇优影院(XB)","type": 3,"api": "http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://101.34.67.237/js/奇优影院.js","jar":"http://101.34.67.237/files/custom_spider_tang.jar"},
+      {
+        "key": "csp_奇优",
+        "name": "🧼奇优影院",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "https://bitbucket.org/xduo/json/raw/master/奇优影院.json",
+        "jar":"https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;11987544E83780B0147AC210239AB165"
+    },
       {
         "key": "csp_biubiu_voflix",
         "name": "💢voflix〔XB〕",
@@ -223,18 +223,18 @@
         "ext":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/真不卡.json",
         "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E7%9C%9F%E4%B8%8D%E5%8D%A1.jar"
       },
-      {"key":"csp_XBiu口袋影院","name": "📩口袋影视","type": 3,"api": "csp_XBiu","ext": {"homeUrl": "http://www.koudaitv.com/type/{cateId}-{catePg}.html","playlist":{"sort":1}}},
+      {"key": "csp_baofeng","name": "☔️┃暴风┃资源","type": 1,"api": "http://bfzy.tv/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["国产剧", "欧美剧", "香港剧",  "韩国剧",   "台湾剧",  "日本剧",   "海外剧", "泰国剧", "动作片","爱情片", "喜剧片","科幻片","战争片","动漫片" ],"jar":"https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;11987544E83780B0147AC210239AB165"},
       {"key":"csp_Lib","name":"💫Lib","type":3,"api":"csp_Libvio","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://tv.libvio.cc"},
       {
-        "key": "csp_xBPQ_诺讯影视",
-        "name": "️💢诺讯(XB)",
+        "key": "csp_茉莉",
+        "name": "🌼┃茉莉┃高清",
         "type": 3,
-        "api": "csp_xBPQ",
+        "api": "csp_XBPQ",
         "searchable": 1,
         "quickSearch": 1,
-        "filterable": 0,
-        "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/诺讯影视.json",
-        "jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%9B%B4%E6%92%ADjar/%E7%9B%B4%E6%92%AD.jar"
+        "filterable": 1,
+        "ext":"{ \"免嗅\":\"0\",\"线路数组\":\"class=\\\"myui-panel__head&&</ul>\",\"播放数组\":\"class=\\\"myui-content__list sort-list clearfix&&</ul>\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"简介\":\"class=\\\"left text-muted\\\"&&</span>\", \"分类\":\"电影$1#电视剧$2#动漫$41#综艺$39\",\"分类url\":\"https://hdmoli.com/mlist/index{cateId}.html\"}",
+        "jar":"https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;11987544E83780B0147AC210239AB165"
       },
       {"key":"csp_biubiu_创艺影视","name":"💢创艺影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/创艺影视.json","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar"},
       {
