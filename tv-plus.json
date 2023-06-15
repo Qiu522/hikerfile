@@ -127,8 +127,8 @@
       {"key": "csp_Yht","name":"🌵荷塘影视","type": 3,"api": "csp_Yht","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://yehetang.cc","jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%9B%B4%E6%92%ADjar/%E7%9B%B4%E6%92%AD.jar"}, 
       {"key": "drpy_js_量子", "name": "🐭量子", "type": 3, "api": "https://hikerfans.com/iptv/libs/drpy2.min.js", "ext": "https://hikerfans.com/iptv/js/量子影视.js","jar":"https://hikerfans.com/iptv/jar/panda.jar"},
       {"key": "csp_AppMr","name": "👻明明影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
-      {"key": "csp_酷影","name": "🖼️酷影蓝光","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.wbsys.top:9835/api.php/app/","jar":"https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;11987544E83780B0147AC210239AB165"},
-      {"key": "js_奈飞","name": "🦆┃奈飞┃影视","type": 3,"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/duomv/duo/-/raw/main/js/鸭奈飞.js","jar":"https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;11987544E83780B0147AC210239AB165"},
+      {"key": "csp_酷影","name": "🖼️酷影蓝光","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.wbsys.top:9835/api.php/app/","jar":"https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;E9D4D921B83E20F88725D7982A515654"},
+      {"key": "js_奈飞","name": "🦆┃奈飞┃影视","type": 3,"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/duomv/duo/-/raw/main/js/鸭奈飞.js","jar":"https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;E9D4D921B83E20F88725D7982A515654"},
       {
         "key": "6",
         "name": "",
@@ -187,7 +187,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://bitbucket.org/xduo/json/raw/master/奇优影院.json",
-        "jar":"https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;11987544E83780B0147AC210239AB165"
+        "jar":"https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;E9D4D921B83E20F88725D7982A515654"
     },
       {
         "key": "csp_biubiu_voflix",
@@ -223,7 +223,7 @@
         "ext":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/真不卡.json",
         "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E7%9C%9F%E4%B8%8D%E5%8D%A1.jar"
       },
-      {"key": "csp_baofeng","name": "☔️┃暴风┃资源","type": 1,"api": "http://bfzy.tv/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["国产剧", "欧美剧", "香港剧",  "韩国剧",   "台湾剧",  "日本剧",   "海外剧", "泰国剧", "动作片","爱情片", "喜剧片","科幻片","战争片","动漫片" ],"jar":"https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;11987544E83780B0147AC210239AB165"},
+      {"key": "csp_baofeng","name": "☔️┃暴风┃资源","type": 1,"api": "http://bfzy.tv/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["国产剧", "欧美剧", "香港剧",  "韩国剧",   "台湾剧",  "日本剧",   "海外剧", "泰国剧", "动作片","爱情片", "喜剧片","科幻片","战争片","动漫片" ],"jar":"https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;E9D4D921B83E20F88725D7982A515654"},
       {"key":"csp_Lib","name":"💫Lib","type":3,"api":"csp_Libvio","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://tv.libvio.cc"},
       {
         "key": "csp_茉莉",
@@ -234,7 +234,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext":"{ \"免嗅\":\"0\",\"线路数组\":\"class=\\\"myui-panel__head&&</ul>\",\"播放数组\":\"class=\\\"myui-content__list sort-list clearfix&&</ul>\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"简介\":\"class=\\\"left text-muted\\\"&&</span>\", \"分类\":\"电影$1#电视剧$2#动漫$41#综艺$39\",\"分类url\":\"https://hdmoli.com/mlist/index{cateId}.html\"}",
-        "jar":"https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;11987544E83780B0147AC210239AB165"
+        "jar":"https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;E9D4D921B83E20F88725D7982A515654"
       },
       {"key":"csp_biubiu_创艺影视","name":"💢创艺影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/创艺影视.json","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar"},
       {
@@ -246,7 +246,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "http://cms.maoyingshi.cc/api.php/app/",
-        "jar":"https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;11987544E83780B0147AC210239AB165"
+        "jar":"https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;E9D4D921B83E20F88725D7982A515654"
     },
       {
         "key": "7",
