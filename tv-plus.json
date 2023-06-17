@@ -189,13 +189,35 @@
     },
     {
         "key": "csp_dongfang",
-        "name": "🏓东方┃影视",
+        "name": "🏓东方影视",
         "type": 3,
         "api": "csp_AppYsV2",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://www.dfspapp.com/api.php/app/",
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;E9D4D921B83E20F88725D7982A515654"
+    },
+    {
+        "key": "csp_yayaya",
+        "name": "👧耐菲影视",
+        "api": "csp_AppYsV2",
+        "type": 3,
+        "filterable": 1,
+        "quickSearch": 1,
+        "searchable": 1,
+        "ext": "https://yayayaaapp.ynf.icu/api.php/app/",
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;E9D4D921B83E20F88725D7982A515654"
+    },
+    {
+        "key": "csp_beijihu",
+        "name": "🎪极狐影视",
+        "type": 3,
+        "api": "csp_AppYsV2",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "https://www.kuin.one/api.php/app/",
         "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;E9D4D921B83E20F88725D7982A515654"
     },
       {
