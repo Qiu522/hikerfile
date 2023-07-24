@@ -106,6 +106,46 @@
         "ext": "https://bitbucket.org/xduo/json/raw/master/zb.json",
         "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
       },
+      {
+        "key": "落落",
+        "name": "🍄落落影视",
+        "type": 3,
+        "api": "csp_AppYsV2",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "http://luoye.shop:66/api.php/app/"
+      },
+      {
+        "key": "飞速",
+        "name": "🚄影探影视",
+        "type": 3,
+        "api": "csp_AppYsV2",
+        "searchable": 0,
+        "quickSearch": 0,
+        "filterable": 1,
+        "ext": "http://ytcms.lfytyl.com/api.php/app/"
+      },
+      {
+        "key": "csp_蚂蚁影院",
+        "name": "🌼蚂蚁影视",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "http://我不是.肥猫.love:63/json/蚂蚁影院.json"
+      },
+      {
+        "key": "小艺",
+        "name": "🥩小艺影视",
+        "type": 3,
+        "api": "csp_AppYsV2",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "https://lg.tvcms.top/api.php/app/"
+      },
       //废了-- {"key":"csp_apple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;4bd2275690262e2b338920201a674539"},
       {"key":"Czsapp","name":"🏭厂长影视","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"}, 
       //废了-- {"key":"多米蓝光","name":"🌽️多米影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.dmdh.top/api.php/app/"}, 
