@@ -117,14 +117,16 @@
         "ext": "http://luoye.shop:66/api.php/app/"
       },
       {
-        "key": "飞速",
-        "name": "🚄影探影视",
+        "key": "侦探TV",
+        "name": "🕵️侦探盒子",
         "type": 3,
         "api": "csp_AppYsV2",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 1,
-        "ext": "http://ytcms.lfytyl.com/api.php/app/"
+        "playerType": 1,
+        "ext": "http://ytcms.lfytyl.com/api.php/app/",
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
       },
       {
         "key": "csp_蚂蚁影院",
