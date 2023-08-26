@@ -3,7 +3,7 @@
     { "name": "live", "url": "https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/live.txt", "type": 0, "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&amp;date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png", "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" }, 
     {"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="]}]}],
     "wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
-    "spider": "https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/pandaP.jar;md5;620bec58d59eb55110ca4d731ce736ae",
+    "spider": "https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;094B4D3625D42893F683CC2E95311153",
     "recommend": [{
       "name": "imdb",
       "request": {
@@ -74,7 +74,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/douban.js",
-            "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+            "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
         }
         ,{
         "key": "2",
@@ -104,7 +104,7 @@
         "quickSearch": 0,
         "filterable": 0,
         "ext": "https://bitbucket.org/xduo/json/raw/master/zb.json",
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
       },
       {
         "key": "落落",
@@ -117,6 +117,20 @@
         "ext": "http://luoye.shop:66/api.php/app/"
       },
       {
+        "key": "新片热播",
+        "name": "🔷┃新片┃热播",
+        "type": 1,
+        "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "categories": [
+            "连续剧",
+            "动漫"
+        ],
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
+    },
+      {
         "key": "侦探TV",
         "name": "🕵️侦探盒子",
         "type": 3,
@@ -126,7 +140,7 @@
         "filterable": 1,
         "playerType": 1,
         "ext": "http://ytcms.lfytyl.com/api.php/app/",
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
       },
       {
         "key": "csp_蚂蚁影院",
@@ -178,7 +192,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://bitbucket.org/xduo/json/raw/master/骚火电影.json",
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
       },
       {
         "key": "js_电影先生",
@@ -189,7 +203,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/电影先生.js",
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
       
       },
       {"key": "csp_xBPQ_素白白",
@@ -212,10 +226,10 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/nongmin.js",
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
       },
       {"key":"Lezhu","name":"🐷乐猪","api":"csp_XBPQ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/乐猪.json"},
-      {"key":"csp_Dy1010","name":"🍁双十电影","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"},
+      {"key":"csp_Dy1010","name":"🍁双十电影","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"},
       {"key":"YQK_spider","name":"🏃一起","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext": "https://hk-api-cf.yqk5659.com"}, 
       {"key":"drpy_js_影渣渣","name":"📺影渣渣[js]","type":3,"api":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/lib/drpy2.min.js","ext":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/js/影渣渣.js","jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/xo1330.jar;md5;4bd2275690262e2b338920201a674539"},
       //{"key": "csp_Yht","name":"🌵荷塘影视","type": 3,"api": "csp_Yht","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://yehetang.cc","jar":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%9B%B4%E6%92%ADjar/%E7%9B%B4%E6%92%AD.jar"}, 
@@ -231,7 +245,7 @@
       "ext": "http://cms.realdou.cn/api.php/app/",
       "categories":["4K电视剧","4K电影","儿童4K"]
       },
-      {"key": "js_奈飞","name": "🦆奈飞影视","type": 3,"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/duomv/duo/-/raw/main/js/鸭奈飞.js","jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"},
+      {"key": "js_奈飞","name": "🦆奈飞影视","type": 3,"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/duomv/duo/-/raw/main/js/鸭奈飞.js","jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"},
       {
         "key": "csp_xml影视乐",
         "name": "🐏乐乐影视",
@@ -241,14 +255,14 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://tv.ysle.cn/api.php/app/",
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
       },
       {
         "key": "app_影视之光",
         "name": "🎳八仟影视",
         "type": 1,
         "api": "http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod",
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
     },	
     {
         "key": "csp_aidi",
@@ -259,7 +273,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://aidiapp.xyz/xgapp.php/v2/",
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
     },
     {
         "key": "apv2_瑞丰",
@@ -267,7 +281,7 @@
         "type": 3,
         "api": "csp_AppYsV2",
         "ext": "http://www.miniku.cc/xgapp.php/v2/",
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
     },	
     {
         "key": "csp_mdd",
@@ -278,7 +292,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "http://app.mengdandan.com/xgapp.php/v1/",
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
     },
     {
         "key": "csp_dongfang",
@@ -289,7 +303,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://www.dfspapp.com/api.php/app/",
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
     },
     {
         "key": "csp_yayaya",
@@ -300,7 +314,7 @@
         "quickSearch": 1,
         "searchable": 1,
         "ext": "https://yayayaaapp.ynf.icu/api.php/app/",
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
     },
     {
         "key": "csp_beijihu",
@@ -311,7 +325,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://www.kuin.one/api.php/app/",
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
     },
     {
         "key": "csp_土豪",
@@ -322,7 +336,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://bitbucket.org/xduo/json/raw/master/土豪.json",
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
     },
       {
         "key": "6",
@@ -382,7 +396,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://bitbucket.org/xduo/json/raw/master/奇优影院.json",
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
     },
       {
         "key": "csp_biubiu_voflix",
@@ -418,7 +432,7 @@
         "ext":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/真不卡.json",
         "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/XB%E5%8C%85jar/%E7%9C%9F%E4%B8%8D%E5%8D%A1.jar"
       },
-      {"key": "csp_baofeng","name": "☔️┃暴风┃资源","type": 1,"api": "http://bfzy.tv/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["国产剧", "欧美剧", "香港剧",  "韩国剧",   "台湾剧",  "日本剧",   "海外剧", "泰国剧", "动作片","爱情片", "喜剧片","科幻片","战争片","动漫片" ],"jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"},
+      {"key": "csp_baofeng","name": "☔️┃暴风┃资源","type": 1,"api": "http://bfzy.tv/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["国产剧", "欧美剧", "香港剧",  "韩国剧",   "台湾剧",  "日本剧",   "海外剧", "泰国剧", "动作片","爱情片", "喜剧片","科幻片","战争片","动漫片" ],"jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"},
       {"key":"csp_Lib","name":"💫Lib","type":3,"api":"csp_Libvio","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://tv.libvio.cc"},
       {
         "key": "csp_茉莉",
@@ -429,7 +443,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext":"{ \"免嗅\":\"0\",\"线路数组\":\"class=\\\"myui-panel__head&&</ul>\",\"播放数组\":\"class=\\\"myui-content__list sort-list clearfix&&</ul>\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"简介\":\"class=\\\"left text-muted\\\"&&</span>\", \"分类\":\"电影$1#电视剧$2#动漫$41#综艺$39\",\"分类url\":\"https://hdmoli.com/mlist/index{cateId}.html\"}",
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
       },
       {"key":"csp_biubiu_创艺影视","name":"💢创艺影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/创艺影视.json","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar"},
       {
@@ -441,7 +455,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "http://cms.maoyingshi.cc/api.php/app/",
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
     },
       {
         "key": "7",
@@ -668,7 +682,7 @@
         "quickSearch": 1,
         "filterable": 1
       },
-      {"key":"csp_Paper","name":"📜纸条","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/token.php", "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;620bec58d59eb55110ca4d731ce736ae"},
+      {"key":"csp_Paper","name":"📜纸条","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/token.php", "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;094B4D3625D42893F683CC2E95311153"},
       {
         "key": "小纸条2",
         "name": "📃小纸条2",
@@ -680,8 +694,8 @@
         "ext": "https://gitee.com/yimuyimuszjzj/yimuy/raw/master/token.txt",
         "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%BD%91%E7%9B%98jar/%E5%B0%8F%E7%BA%B8%E6%9D%A12.jar"
       },
-      {"key":"csp_search_Upyunso","name":"🐐云搜","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php", "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;620bec58d59eb55110ca4d731ce736ae"},
-      {"key":"csp_search_Zhaozy","name":"🐑找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch" :0,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php", "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;620bec58d59eb55110ca4d731ce736ae"},
+      {"key":"csp_search_Upyunso","name":"🐐云搜","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php", "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;094B4D3625D42893F683CC2E95311153"},
+      {"key":"csp_search_Zhaozy","name":"🐑找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch" :0,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php", "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/panda.jar;md5;094B4D3625D42893F683CC2E95311153"},
     {
       "key": "csp_AliPS",
       "name": "📀喵盘搜️(仅搜索）",
@@ -817,7 +831,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/qtv.js",
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
     },
     {
         "key": "js_奇异",
@@ -828,7 +842,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/qzys.js",
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
     },
     {
         "key": "js_芒果",
@@ -839,7 +853,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/baimang.js",
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
     },
     {
         "key": "js_优酷",
@@ -850,7 +864,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/youku.js",
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
     },
     {
         "key": "js_菜狗",
@@ -861,7 +875,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://bitbucket.org/xduo/json/raw/master/caigou.js",
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
     },
     {
         "key": "zy_新浪",
@@ -892,7 +906,7 @@
             "泰剧",
             "体育"
         ],
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
     },
     {
         "key": "api_xml_搜糊",
@@ -925,7 +939,7 @@
             "综艺",
             "动漫"
         ],
-        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+        "jar":"https://ghproxy.com/https://github.com/Qiu522/hikerfile/raw/main/jar/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
     },
     {"key":"csp_SP360","name":"📺360官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json"},
     {"key":"csp_BBB","name":"🅱哔哩合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/bili.json"}
