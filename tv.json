@@ -13,6 +13,14 @@
       "name": "自用"
     },
     {
+      "url": "https://hub.nuaa.cf/Qiu522/hikerfile/raw/main/时光机_精简.json",
+      "name": "时光机_精简"
+    },
+    {
+      "url": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/main.json",
+      "name": "时光机_抢先"
+    },
+    {
       "url": "https://pastebin.com/raw/5NHaxyGR",
       "name": "道长"
     },
@@ -23,6 +31,10 @@
     {
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
       "name": "香雅晴"
+    },
+    {
+      "url": "https://fm.t4tv.hz.cz/json/config.json",
+      "name": "蜂蜜"
     }
   ]
 }
