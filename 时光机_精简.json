@@ -18,11 +18,11 @@
       "key": "dr_时光机在线豆瓣",
       "name": "🌞稳定版时光机💢v20231203-143",
       "type": 3,
-      "api": "./sites/码上/merge.min.js",
+      "api": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/merge.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./sites/码上/豆瓣.js"
+      "ext": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/豆瓣.js"
     },
     {
       "key": "csp_KungFu404",
@@ -33,7 +33,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tm/token.txt",
-      "jar": "./sites/码上/alibaba.jar"
+      "jar": "https://gitee.com/bestpvp/tm/raw/master/source/stable/sites/码上/alibaba.jar"
     },
     {
       "key": "jar_码上看玩偶",
