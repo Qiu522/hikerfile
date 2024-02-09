@@ -1,6 +1,14 @@
 {
   "urls": [
     {
+      "url": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/main.json",
+      "name": "时光机"
+    },
+    {
+      "url": "http://饭太硬.top/tv",
+      "name": "饭太硬"
+    },
+    {
       "url": "https://hub.nuaa.cf/Qiu522/hikerfile/raw/main/时光机_精简.json",
       "name": "时光机_精简_自用"
     },
@@ -28,14 +36,7 @@
       "url": "http://肥猫.live/",
       "name": "肥猫"
     },
-    {
-      "url": "http://饭太硬.top/tv",
-      "name": "饭太硬"
-    },
-    {
-      "url": "https://gitee.com/bestpvp/tm/raw/master/source/stable/main.json",
-      "name": "时光机"
-    },
+    
     {
       "url": "https://hub.nuaa.cf/Qiu522/hikerfile/raw/main/tv-plus.json",
       "name": "自用"
