@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "https://atomgit.com/bestpvp/tm/raw/master/source/stable/main.json",
+      "url": "https://raw.gitmirror.com/bestpvp/tm/main/source/stable/main.json",
       "name": "时光机"
     },
     {
@@ -13,7 +13,7 @@
       "name": "时光机_精简_自用"
     },
     {
-      "url": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/main.json",
+      "url": " https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/main.json",
       "name": "时光机_抢先"
     },
     {
