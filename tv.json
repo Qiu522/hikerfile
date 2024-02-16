@@ -1,16 +1,12 @@
 {
   "urls": [
     {
-      "url": "https://raw.gitmirror.com/bestpvp/tm/main/source/stable/main.json",
-      "name": "时光机"
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Qiu522/hikerfile/raw/main/时光机_自用.json",
+      "name": "时光机_自用"
     },
     {
       "url": "http://饭太硬.top/tv",
       "name": "饭太硬"
-    },
-    {
-      "url": "https://hub.nuaa.cf/Qiu522/hikerfile/raw/main/时光机_自用.json",
-      "name": "时光机_自用"
     },
     {
       "url": " https://raw.gitmirror.com/bestpvp/tm/main/source/nightly/main.json",
