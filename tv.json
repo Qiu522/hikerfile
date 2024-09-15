@@ -37,12 +37,8 @@
       "name": "测试1"
     },
     {
-      "url": "https://cf.weixine.net/api.json",
-      "name": "测试2"
-    },
-    {
       "url": "https://jihulab.com/mengzhu2/fmjk/-/raw/main/FMJK.json",
-      "name": "测试3"
+      "name": "测试2"
     }
   ]
 }
