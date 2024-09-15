@@ -34,8 +34,18 @@
     },
     
     {
-      "url": "https://hub.nuaa.cf/Qiu522/hikerfile/raw/main/tv-plus.json",
-      "name": "自用"
+      "url": "https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json",
+      "name": "测试1"
+    },
+    
+    {
+      "url": "https://cf.weixine.net/api.json",
+      "name": "测试2"
+    },
+    
+    {
+      "url": "https://jihulab.com/mengzhu2/fmjk/-/raw/main/FMJK.json",
+      "name": "测试3"
     }
   ]
 }
